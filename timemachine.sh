@@ -32,7 +32,7 @@ travel()
 
   dest=$(date +%m%d%H%M%Y.%S -d"$d $t")
 
-  date $dest
+  sudo date $dest
 
 }
 
