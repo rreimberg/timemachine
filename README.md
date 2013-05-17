@@ -12,9 +12,9 @@ Examples:
 
 ```sh
 $ source timemachine.sh
-$ travel +30s # Forward 20 seconds
+$ travel +30s # Forward 30 seconds
 $ travel -20M # Rewind 20 minutes
-$ travel 4h # Rewind 4 hours
+$ travel 4h # Forward 4 hours
 $ travel -3d # Rewind 3 days
 $ travel 5m # Forward 5 months
 $ travel 12y # Forward 12 years
